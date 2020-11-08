@@ -12,8 +12,8 @@ import reactor.core.publisher.Mono;
 
 import java.time.Duration;
 
-@RestController
-@RequestMapping("/products")
+//@RestController
+//@RequestMapping("/products")
 public class ProductController {
     private final ProductRepository productRepository;
 
